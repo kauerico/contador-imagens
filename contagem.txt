@@ -1,0 +1,19 @@
+Contagens de imagens:
+
+crestamento_bacteriano = 534 imagens
+deficiencia_de_potassio = 1034 imagens
+ferrugem_asiatica = 1692 imagens
+ferrugem_do_feijao = 3132 imagens
+mancha_alvo = 1081 imagens
+mancha_angular = 3105 imagens
+mancha_olho_de_ra = 1313 imagens
+mancha_parda = 1787 imagens
+mildio = 652 imagens
+mosaico = 108 imagens
+oidio = 113 imagens
+podridao_radicular = 62 imagens
+saudavel = 4819 imagens
+sindrome_morte_subita = 110 imagens
+virus_mosaico = 22 imagens
+
+Total = 19.564
